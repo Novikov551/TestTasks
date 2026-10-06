@@ -1,0 +1,30 @@
+﻿<data>
+	<row>
+		<id>
+			1
+		</id>
+		<Code>
+			SBR003-202001
+		</Code>
+		<Name>
+			Конкурс СМСП
+		</Name>
+		<StatusId>
+			45
+		</StatusId>
+	</row>
+	<row>
+		<id>
+			2
+		</id>
+		<Code>
+			SBR003-202002
+		</Code>
+		<Name>
+			Запрос предложений
+		</Name>
+		<StatusId>
+			2
+		</StatusId>
+	</row>
+</data>
